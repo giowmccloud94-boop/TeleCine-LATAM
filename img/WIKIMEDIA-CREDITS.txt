@@ -1,31 +1,43 @@
-Wikimedia Commons image credits
+Créditos de imágenes descargadas desde Wikimedia Commons
 
 television/television-90.jpg
-Title: 1990s Television Set
-Creator: ProtoKiwi
-License: Creative Commons Attribution 4.0 (CC BY 4.0)
-File page: https://commons.wikimedia.org/wiki/File:1990s_Television_Set.jpg
-License: https://creativecommons.org/licenses/by/4.0/
+Título: ABC-TV studio at Sandy Bay Road, Hobart (AB713-1-8232)
+Autor: Education Department (TA63)
+Licencia: Dominio público
+Fuente original: https://commons.wikimedia.org/wiki/File:ABC-TV_studio_at_Sandy_Bay_Road,_Hobart_(AB713-1-8232).jpg
+Atribución: No exigida por la licencia; se conserva esta referencia por transparencia editorial.
 
 television/television-2000.jpg
-Title: 2000s home theater, "California Casual" (cropped)
-Creator: PascalSijen
-License: Creative Commons Attribution 2.0 (CC BY 2.0)
-File page: https://commons.wikimedia.org/wiki/File:2000s_home_theater,_%22California_Casual%22_(cropped).jpg
-License: https://creativecommons.org/licenses/by/2.0/
+Título: Shamshad TV studio in 2010
+Autor: Daniel Wilkinson
+Licencia: Dominio público
+Fuente original: https://commons.wikimedia.org/wiki/File:Shamshad_TV_studio_in_2010.jpg
+Atribución: No exigida por la licencia; se conserva esta referencia por transparencia editorial.
+
+television/television-2010.jpg
+Título: 24 Horas Red Valparaíso studio (20190506 194044)
+Autor: NMdUnsl
+Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Fuente original: https://commons.wikimedia.org/wiki/File:24_Horas_Red_Valpara%C3%ADso_studio_(20190506_194044).jpg
+Atribución: NMdUnsl / Wikimedia Commons; compartir adaptaciones bajo CC BY-SA 4.0.
 
 cartoon-network/cartoon-network-90.jpg
-Title: Cartoon Network logo (1992-2004)
-Creator: Cartoon Network (Warner Bros. Discovery) - Corey McPherson Nash (Hatmaker)
-Copyright status: Public domain according to the Commons file page.
-Trademark notice: The file page identifies the logo as trademarked.
-File page: https://commons.wikimedia.org/wiki/File:Cartoon_Network_logo_(1992-2004).svg
-Source format: Commons-generated 1280 px PNG thumbnail of the SVG, converted to JPEG.
+Título: Children watching TV
+Autor: Julian Tysoe
+Licencia: Creative Commons Attribution 2.0 (CC BY 2.0)
+Fuente original: https://commons.wikimedia.org/wiki/File:Children_watching_TV.jpg
+Atribución: Julian Tysoe / Wikimedia Commons, CC BY 2.0.
 
 nickelodeon/nickelodeon-2000.jpg
-Title: Nickelodeon (1984 logo)
-Creator: Corey McPherson Nash, Fred/Alan, Inc. (Viacom International, Inc.)
-Copyright status: Public domain according to the Commons file page.
-Trademark notice: The file page identifies the logo as trademarked.
-File page: https://commons.wikimedia.org/wiki/File:Nickelodeon_(1984_logo).svg
-Source format: Commons-generated 1280 px PNG thumbnail of the SVG, converted to JPEG.
+Título: Television remote control - black 01
+Autor: Dmitry Makeev
+Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Fuente original: https://commons.wikimedia.org/wiki/File:Television_remote_control_-_black_01.jpg
+Atribución: Dmitry Makeev / Wikimedia Commons; compartir adaptaciones bajo CC BY-SA 4.0.
+
+disney-channel/disney-channel-latinoamerica.jpg
+Título: Television remote control - unbranded-4028
+Autor: Raimond Spekking
+Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Fuente original: https://commons.wikimedia.org/wiki/File:Television_remote_control_-_unbranded-4028.jpg
+Atribución: Raimond Spekking / Wikimedia Commons; compartir adaptaciones bajo CC BY-SA 4.0.
