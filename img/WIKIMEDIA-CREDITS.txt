@@ -1,0 +1,31 @@
+Wikimedia Commons image credits
+
+television/television-90.jpg
+Title: 1990s Television Set
+Creator: ProtoKiwi
+License: Creative Commons Attribution 4.0 (CC BY 4.0)
+File page: https://commons.wikimedia.org/wiki/File:1990s_Television_Set.jpg
+License: https://creativecommons.org/licenses/by/4.0/
+
+television/television-2000.jpg
+Title: 2000s home theater, "California Casual" (cropped)
+Creator: PascalSijen
+License: Creative Commons Attribution 2.0 (CC BY 2.0)
+File page: https://commons.wikimedia.org/wiki/File:2000s_home_theater,_%22California_Casual%22_(cropped).jpg
+License: https://creativecommons.org/licenses/by/2.0/
+
+cartoon-network/cartoon-network-90.jpg
+Title: Cartoon Network logo (1992-2004)
+Creator: Cartoon Network (Warner Bros. Discovery) - Corey McPherson Nash (Hatmaker)
+Copyright status: Public domain according to the Commons file page.
+Trademark notice: The file page identifies the logo as trademarked.
+File page: https://commons.wikimedia.org/wiki/File:Cartoon_Network_logo_(1992-2004).svg
+Source format: Commons-generated 1280 px PNG thumbnail of the SVG, converted to JPEG.
+
+nickelodeon/nickelodeon-2000.jpg
+Title: Nickelodeon (1984 logo)
+Creator: Corey McPherson Nash, Fred/Alan, Inc. (Viacom International, Inc.)
+Copyright status: Public domain according to the Commons file page.
+Trademark notice: The file page identifies the logo as trademarked.
+File page: https://commons.wikimedia.org/wiki/File:Nickelodeon_(1984_logo).svg
+Source format: Commons-generated 1280 px PNG thumbnail of the SVG, converted to JPEG.
