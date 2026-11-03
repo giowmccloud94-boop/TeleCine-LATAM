@@ -41,3 +41,31 @@ Autor: No indicado en la ficha de Wikimedia Commons
 Licencia: Dominio público según la ficha; la ficha también advierte posibles derechos de marca
 Fuente original: https://commons.wikimedia.org/wiki/File:2010_Disney_Channel_logo.svg
 Atribución: No exigida por la licencia; se conserva la referencia a la fuente. El uso del logotipo debe respetar los derechos de marca aplicables.
+
+television-historica/television-latinoamerica-1950.jpg
+Título: 1950's television
+Autor: Nord68
+Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Fuente original: https://commons.wikimedia.org/wiki/File:1950%27s_television.jpg
+Atribución: Nord68 / Wikimedia Commons; compartir adaptaciones bajo CC BY-SA 4.0.
+
+canales-tematicos/hbo-original-1972.jpg
+Título: HBO 1972
+Autor: WarnerMedia
+Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Fuente original: https://commons.wikimedia.org/wiki/File:HBO_1972.jpg
+Atribución: WarnerMedia / Wikimedia Commons; compartir adaptaciones bajo CC BY-SA 4.0. La marca HBO pertenece a sus titulares.
+
+canales-tematicos/nickelodeon-1984.svg
+Título: Nickelodeon (1984 logo)
+Autor: Corey McPherson Nash, Fred/Alan, Inc. (marca de Viacom International, Inc.)
+Licencia: Dominio público según la ficha de Wikimedia Commons; pueden existir derechos de marca
+Fuente original: https://commons.wikimedia.org/wiki/File:Nickelodeon_(1984_logo).svg
+Atribución: Se conserva la referencia a la fuente; el uso del nombre y logotipo debe respetar los derechos de marca aplicables.
+
+canales-tematicos/cnn-original-1980.svg
+Título: CNN.svg
+Autor: Warner Bros. Discovery; archivo aportado por Sreejithk2000
+Licencia: Dominio público según la ficha de Wikimedia Commons; pueden existir derechos de marca
+Fuente original: https://commons.wikimedia.org/wiki/File:CNN.svg
+Atribución: Se conserva la referencia a la fuente; el uso del nombre y logotipo debe respetar los derechos de marca aplicables.
