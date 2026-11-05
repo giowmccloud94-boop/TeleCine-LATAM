@@ -6,6 +6,7 @@ Autor: Education Department (TA63)
 Licencia: Dominio público
 Fuente original: https://commons.wikimedia.org/wiki/File:ABC-TV_studio_at_Sandy_Bay_Road,_Hobart_(AB713-1-8232).jpg
 Atribución: No exigida por la licencia; se conserva esta referencia por transparencia editorial.
+Adaptación: versión local adaptada para presentación web; sus dimensiones y encuadre difieren del archivo fuente.
 
 television/television-2000.jpg
 Título: Shamshad TV studio in 2010
@@ -13,31 +14,33 @@ Autor: Daniel Wilkinson
 Licencia: Dominio público
 Fuente original: https://commons.wikimedia.org/wiki/File:Shamshad_TV_studio_in_2010.jpg
 Atribución: No exigida por la licencia; se conserva esta referencia por transparencia editorial.
+Adaptación: versión local adaptada para presentación web; sus dimensiones y encuadre difieren del archivo fuente.
 
 television/television-2010.jpg
 Título: 24 Horas Red Valparaíso studio (20190506 194044)
 Autor: NMdUnsl
 Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 Fuente original: https://commons.wikimedia.org/wiki/File:24_Horas_Red_Valpara%C3%ADso_studio_(20190506_194044).jpg
-Atribución: NMdUnsl / Wikimedia Commons; compartir adaptaciones bajo CC BY-SA 4.0.
+Atribución: NMdUnsl / Wikimedia Commons. Licencia: https://creativecommons.org/licenses/by-sa/4.0/. Versión local redimensionada de 719 × 404 a 1280 × 719 y ofrecida bajo la misma licencia.
 
 cartoon-network/cartoon-network-90.jpg
 Título: Children watching TV
 Autor: Julian Tysoe
 Licencia: Creative Commons Attribution 2.0 (CC BY 2.0)
 Fuente original: https://commons.wikimedia.org/wiki/File:Children_watching_TV.jpg
-Atribución: Julian Tysoe / Wikimedia Commons, CC BY 2.0.
+Atribución: Julian Tysoe / Wikimedia Commons. Licencia: https://creativecommons.org/licenses/by/2.0/.
+Adaptación: versión local adaptada para presentación web; sus dimensiones y encuadre difieren del archivo fuente.
 
 nickelodeon/nickelodeon-2000.jpg
 Título: Television remote control - black 01
 Autor: Dmitry Makeev
 Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 Fuente original: https://commons.wikimedia.org/wiki/File:Television_remote_control_-_black_01.jpg
-Atribución: Dmitry Makeev / Wikimedia Commons; compartir adaptaciones bajo CC BY-SA 4.0.
+Atribución: Dmitry Makeev / Wikimedia Commons. Licencia: https://creativecommons.org/licenses/by-sa/4.0/. Versión local recortada para presentación web y ofrecida bajo la misma licencia.
 
 disney-channel/disney-channel-logo-2010.svg
 Título: 2010 Disney Channel logo.svg
-Autor: No indicado en la ficha de Wikimedia Commons
+Autor: Disney Enterprises, Inc.
 Licencia: Dominio público según la ficha; la ficha también advierte posibles derechos de marca
 Fuente original: https://commons.wikimedia.org/wiki/File:2010_Disney_Channel_logo.svg
 Atribución: No exigida por la licencia; se conserva la referencia a la fuente. El uso del logotipo debe respetar los derechos de marca aplicables.
@@ -47,14 +50,14 @@ Título: 1950's television
 Autor: Nord68
 Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 Fuente original: https://commons.wikimedia.org/wiki/File:1950%27s_television.jpg
-Atribución: Nord68 / Wikimedia Commons; compartir adaptaciones bajo CC BY-SA 4.0.
+Atribución: Nord68 / Wikimedia Commons. Licencia: https://creativecommons.org/licenses/by-sa/4.0/. El archivo local conserva las dimensiones de la fuente (1024 × 768); no se ha verificado si hubo otros cambios.
 
 canales-tematicos/hbo-original-1972.jpg
 Título: HBO 1972
 Autor: WarnerMedia
 Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 Fuente original: https://commons.wikimedia.org/wiki/File:HBO_1972.jpg
-Atribución: WarnerMedia / Wikimedia Commons; compartir adaptaciones bajo CC BY-SA 4.0. La marca HBO pertenece a sus titulares.
+Atribución: WarnerMedia / Wikimedia Commons. Licencia: https://creativecommons.org/licenses/by-sa/4.0/. El archivo local conserva las dimensiones de la fuente (460 × 388). La marca HBO pertenece a sus titulares.
 
 canales-tematicos/nickelodeon-1984.svg
 Título: Nickelodeon (1984 logo)
