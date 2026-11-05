@@ -45,12 +45,13 @@ header {
     text-align: center;
 }
 
-header h1 {
+header h1,
+header .site-title {
     font-size: 2.5rem;
     margin-bottom: 10px;
 }
 
-header p {
+header > p:not(.site-title) {
     font-size: 1.1rem;
     color: #ccc;
 }
@@ -169,7 +170,8 @@ footer p {
         padding: 30px 5%;
     }
 
-    header h1 {
+    header h1,
+    header .site-title {
         font-size: 2rem;
     }
 
