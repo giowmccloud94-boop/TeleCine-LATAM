@@ -72,3 +72,19 @@ Autor: Warner Bros. Discovery; archivo aportado por Sreejithk2000
 Licencia: Dominio público según la ficha de Wikimedia Commons; pueden existir derechos de marca
 Fuente original: https://commons.wikimedia.org/wiki/File:CNN.svg
 Atribución: Se conserva la referencia a la fuente; el uso del nombre y logotipo debe respetar los derechos de marca aplicables.
+
+cine/cinematografo-lumiere.jpg
+Título: Caméra cinématographe 35 mm Lumière vue de face (couvercle objectif ouvert)
+Autor: PODZO DI BORGO
+Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Fuente original: https://commons.wikimedia.org/wiki/File:Cam%C3%A9ra_cin%C3%A9matographe_35_mm_Lumi%C3%A8re_vue_de_face_(couvercle_objectif_ouvert)._On_voit_l%27obturateur_mobile_%C3%A0_disque_et_la_fen%C3%AAtre_de_cadrage_du_film.jpg
+Atribución: PODZO DI BORGO / Wikimedia Commons. Licencia: https://creativecommons.org/licenses/by-sa/4.0/.
+Adaptación: miniatura local redimensionada por Wikimedia Commons a 960 px de alto, sin otros cambios; se ofrece bajo la misma licencia.
+
+streaming/portatil-reproduciendo-video.jpg
+Título: Sony Vaio Laptop showing video with man lying in bed watching TV
+Autor: Pittigrilli
+Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Fuente original: https://commons.wikimedia.org/wiki/File:Sony_Vaio_Laptop_showing_video_with_man_lying_in_bed_watching_TV.jpeg
+Atribución: Pittigrilli / Wikimedia Commons. Licencia: https://creativecommons.org/licenses/by-sa/4.0/.
+Adaptación: miniatura local redimensionada por Wikimedia Commons a 960 px de alto, sin otros cambios; se ofrece bajo la misma licencia.
